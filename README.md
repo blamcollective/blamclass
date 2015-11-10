@@ -34,8 +34,8 @@ Note: With Eli Pousson's suggestion, this will probably be expanded to line comm
 
 ### Time of Day
 - 15 people prefer **Weekdays at 7p**.
-- 9 people prefer **Saturdays at 11a**.
 - 11 people prefer **Saturdays at 2p**.
+- 9 people prefer **Saturdays at 11a**.
 - 9 people prefer **Sundays at 1p**.
 - 6 people prefer **Weekdays at 5p**.
 - 5 people prefer **Weekdays during lunch, 12p-2p**.
