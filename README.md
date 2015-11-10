@@ -5,7 +5,7 @@ bLAMcollective is interested in offering free technology-related workshops and s
 
 - **19** people filled out the [survey](https://docs.google.com/forms/d/1P51gbwDO1R47OTZSTy5TMRKukFYcEZKnk-QkQrP82ps/viewform) as of November 9, 2015.
 
-### Workshops
+##### Workshops
 - 12 people would attend a workshop on **Omeka: Open Source/Free Content Management System**.
 - 12 want a workshop on **AV Collections: Born-Digital and Analog**.
 - 11 want a workshop on **Adobe Photoshop & Bridge for Post-Digitization**. 
@@ -21,7 +21,7 @@ Note: With Eli Pousson's suggestion, this will probably be expanded to line comm
 
 **Content Management System-free website creation**, **Introduction to Github**, and **Cleaning and Preparing Data** were added before the last three people filled out the survey. [Vote for them](https://docs.google.com/forms/d/1P51gbwDO1R47OTZSTy5TMRKukFYcEZKnk-QkQrP82ps/viewform) if you're interested!
 
-### Skill Shares
+##### Skill Shares
 - 13 people would attend a skill share about **Digital Humanities**.
 - 12 people want a skill share about **Database Creation and/or Customization**.
 - 9 people want a skill share about **User Experience / Interaction Design / Information Architecture**.
@@ -32,7 +32,7 @@ Note: With Eli Pousson's suggestion, this will probably be expanded to line comm
 - Suggestions: 1 person wants a skill share about **Managing Large-Scale and Small-Scale Digitization Projects**.
 - Suggestions: 1 person wants to lead a skill share about **Social Media Hacks for Twitter, IG, and Facebook**.
 
-### Time of Day
+##### Time of Day
 - 15 people prefer **Weekdays at 7p**.
 - 11 people prefer **Saturdays at 2p**.
 - 9 people prefer **Saturdays at 11a**.
