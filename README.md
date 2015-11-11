@@ -13,7 +13,7 @@ Note: With Eli Pousson's suggestion, this will probably be expanded to line comm
 - 10 want a workshop on **Using Data: Information Visualizations**.
 - 10 want a workshop on **Mapping/GIS**.
 - 8 want a workshop on **Conducting Oral Histories**.
-- want a workshop on **Personal Digital Archiving**.
+- 8 want a workshop on **Personal Digital Archiving**.
 - 7 want a workshop on **Wikipedia editing**.
 - 7 want a workshop on **Social Media: Using, Analyzing, and Branding**.
 - 5 want a workshop on **Creating Tutorials Using Quicktime and iMovie**.
