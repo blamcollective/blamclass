@@ -3,6 +3,7 @@
 ## Welcome to our first bLAMclass! Today we will learn: 
 
 * How Omeka was developed and how it's used
+* We'll briefly touch on metadata standards [(Dublin Core)] (http://dublincore.org/) 
 * How the [Preserve the Baltimore Uprising] (http://baltimoreuprising2015.org/) archive project is using Omeka (including challenges, successes, and working with an outside developer)
 * How other archives use this tool
 * And finally, we'll catalog digital items and look at exhibits as a group
