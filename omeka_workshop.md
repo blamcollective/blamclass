@@ -14,6 +14,8 @@
 
 ### You'll need to use some images to get started with Omeka...
 
+If you don't have any images or digital items on your computer, feel free to use these images from Wikimedia Commons!
+
 * [Image 1] (https://commons.wikimedia.org/wiki/File:2_o'clock_club_in_Baltimore,_Maryland_exterior.jpg)
 * [Image 2] (https://commons.wikimedia.org/wiki/File:ISS-43_Baltimore,_Maryland.jpg)
 * [Image 3] (https://commons.wikimedia.org/wiki/File:Row_houses_in_East_Monument_Historic_District,_Baltimore,_Maryland.JPG)
